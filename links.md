@@ -24,3 +24,5 @@ http://c2.com/cgi/wiki?CapabilitySecurityModel
 
 http://lambda-the-ultimate.org/node/3930
 
+http://srl.cs.jhu.edu/pubs/SRL2003-02.pdf
+
